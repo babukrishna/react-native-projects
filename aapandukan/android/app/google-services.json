@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "717885157308",
+    "firebase_url": "https://aapandukan-01.firebaseio.com",
+    "project_id": "aapandukan-01",
+    "storage_bucket": "aapandukan-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717885157308:android:141fa2e6afd6525a",
+        "android_client_info": {
+          "package_name": "com.aapandukan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717885157308-1lk3i09oqrum2q6718t6vv9gkg52ducm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aapan.dukan",
+            "certificate_hash": "50c65243630dd4d770ff3ca44740ac1abe145d35"
+          }
+        },
+        {
+          "client_id": "717885157308-453oosqi4h9hi2ubecofjhgg5d0olim6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmjmW6cUiytaxpFXgW8yCSd-AeiQWXj1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717885157308-453oosqi4h9hi2ubecofjhgg5d0olim6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

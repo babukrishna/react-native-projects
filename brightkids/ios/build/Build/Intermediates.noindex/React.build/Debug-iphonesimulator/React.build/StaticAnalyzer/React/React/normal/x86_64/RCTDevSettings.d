@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/VML/Desktop/krishna/react-native/brightkids/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
